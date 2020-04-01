@@ -1,0 +1,20 @@
+{
+  "name": "BeTheHero-api",
+  "version": "1.0.0",
+  "description": "BeTheHero app week 11, from omnistack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Rogério Araújo",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
