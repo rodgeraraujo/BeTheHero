@@ -44,12 +44,10 @@
 </p>
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>
-
-<a href="#memo-license">License</a>
-
+  <a href="#ℹ%EF%B8%8F-how-to-use-the-project-bethehero">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
 </p>
 
 ## 💻 Project
@@ -135,7 +133,7 @@ $ expo start
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+This project is under the MIT license. See the [LICENSE](LICENSE) for details.
 
 ---
 
